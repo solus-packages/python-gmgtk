@@ -1,0 +1,39 @@
+<PISI>
+    <Source>
+        <Name>python-gmgtk</Name>
+        <Packager>
+            <Name>Justin Zobel</Name>
+            <Email>justin.zobel@gmail.com</Email>
+        </Packager>
+        <License>GPL-3.0</License>
+        <PartOf>programming.python</PartOf>
+        <Summary xml:lang="en">Boilerplate code for Gtk+ 3 apps with python 3.x</Summary>
+        <Description xml:lang="en">Boilerplate code for Gtk+ 3 apps with python 3.x
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://getsol.us/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>python-gmgtk</Name>
+        <Summary xml:lang="en">Boilerplate code for Gtk+ 3 apps with python 3.x</Summary>
+        <Description xml:lang="en">Boilerplate code for Gtk+ 3 apps with python 3.x
+</Description>
+        <PartOf>programming.python</PartOf>
+        <Files>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gmgtk-0.1-py3.6.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gmgtk-0.1-py3.6.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gmgtk-0.1-py3.6.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gmgtk-0.1-py3.6.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gmgtk/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.6/site-packages/gmgtk/__pycache__/__init__.cpython-36.pyc</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2019-07-26</Date>
+            <Version>1.0</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Justin Zobel</Name>
+            <Email>justin.zobel@gmail.com</Email>
+        </Update>
+    </History>
+</PISI>
