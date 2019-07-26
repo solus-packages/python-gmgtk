@@ -1,9 +1,9 @@
 name       : python-gmgtk
 version    : 1.0
-release    : 1
+release    : 3
 source     :
     - https://gitlab.com/gabmus/python-gmgtk/-/archive/1.0/python-gmgtk-1.0.tar.bz2 : bcdc039626572c0606332f2382740a6190c37bcee9723c750fa5c6832c4bcf7f
-license    : GPL-3.0
+license    : GPL-3.0-or-later
 component  : programming.python
 summary    : Boilerplate code for Gtk+ 3 apps with python 3.x
 description: |
